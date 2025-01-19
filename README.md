@@ -1,10 +1,9 @@
-### Hi I'm PhucHT 👋
-
-- 🔭 I’m currently working on .NET Core 5
-- 🌱 I’m currently learning Django and Machine learning with python.
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### PhucHT 👋
+- 💬 Language: C#, Python, JS, C++
+- 🔭 Role: Frontend, Backend, AI, Data, LLM & GenAI
+- 🌱 Framework:
+  + Frontend: VueJS, React
+  + Backend: .NET, Django
+  + AI: tensorflow, keras, sklearn
+  + Data: pandas
+  + LLM & GenAI: langchain, google-generative (Gemini)
